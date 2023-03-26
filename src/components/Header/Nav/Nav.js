@@ -13,7 +13,7 @@ const Nav = () => {
                 <img src={logo} alt="" />
 
                 {/* menu */}
-                <ul className='flex text-white text-base pt-2 pb-4'>
+                <ul className='flex text-white text-base font-thin pt-2 pb-4'>
                     <li className='px-5 hover:border-b-[1px] transition-all duration-100 delay-75'><a href="">HOME</a></li>
                     <li className='px-5 hover:border-b-[1px] transition-all duration-100 delay-75'><a href="">MEN</a></li>
                     <li className='px-5 hover:border-b-[1px] transition-all duration-100 delay-75'><a href="">WOMEN</a></li>

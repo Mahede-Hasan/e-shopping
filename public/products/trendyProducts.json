@@ -1,0 +1,26 @@
+[
+    {
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679854490/e-shopping/Trendy-Products/product-1-1.jpg_fyq1z0.png",
+      "brand": "Clothing",
+      "name": "Vest dress",
+      "price": 9.99
+    },
+    {
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679854491/e-shopping/Trendy-Products/product-2-1.jpg_asq4bz.png",
+      "brand": "Clothing",
+      "name": "Dress with belt",
+      "price": 29.99
+    },
+    {
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679854490/e-shopping/Trendy-Products/product-3-1.jpg_jq6vtu.png",
+      "brand": "Shoes",
+      "name": "Sandals",
+      "price": 24.99
+    },
+    {
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679854490/e-shopping/Trendy-Products/product-4-1.jpg_yxvwke.png",
+      "brand": "Hand Bags",
+      "name": "Bucket Bag",
+      "price": 17.99
+    }
+  ]
