@@ -1,0 +1,60 @@
+[
+    {
+      "id": 1,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679938976/e-shopping/New-arrivals/product-5-1.jpg_zambdb.png",
+      "brand": "Clothing",
+      "name": "Linen-blend dress",
+      "price": 60.00
+    },
+    {
+      "id": 2,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679938976/e-shopping/New-arrivals/product-6-1.jpg_c50buj.png",
+      "brand": "Shoes",
+      "name": "Sandals with lacing",
+      "price": "Now $70.00",
+      "oldPrice": "Was $155.00"
+    },
+    {
+      "id": 3,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679938976/e-shopping/New-arrivals/product-7-1.jpg_vjqqza.png",
+      "brand": "Clothing",
+      "name": "Paper bag trousers",
+      "price": 60.00
+    },
+    {
+      "id": 4,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679938976/e-shopping/New-arrivals/product-8-1.jpg_sfoiu4.png",
+      "brand": "Handbags",
+      "name": "Paper straw shopper",
+      "price": 398.00
+    },
+    {
+      "id": 5,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679938976/e-shopping/New-arrivals/product-9-1.jpg_mbirlr.png",
+      "brand": "Handbags",
+      "name": "Bucket bag",
+      "price": 350.00
+    },
+    {
+      "id": 6,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679938977/e-shopping/New-arrivals/product-10-1.jpg_s5ygbq.png",
+      "brand": "Clothing",
+      "name": "Silk-blend kaftan",
+      "price": "Now $370.00"
+    },
+    {
+      "id": 7,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679938977/e-shopping/New-arrivals/product-11-1.jpg_liki1l.png",
+      "brand": "Clothing",
+      "name": "Linen-blend jumpsuit",
+      "price": 595.00
+    },
+    {
+      "id": 8,
+      "img": "https://res.cloudinary.com/dxyvqsdqv/image/upload/v1679938976/e-shopping/New-arrivals/product-12-1.jpg_exrofo.png",
+      "brand": "Shoes",
+      "name": "Sandals",
+      "price": "Now $120.00",
+      "oldPrice": "Was $140.00"
+    }
+  ]

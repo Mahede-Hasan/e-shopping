@@ -1,12 +1,12 @@
 import React from 'react';
-import TrendyCards from './TrendyCards';
+import NewArrivalsCards from './NewArrivalsCards';
 
-const TrendyProducts = () => {
+const NewArrivals = () => {
     return (
         <div className='px-[120px] py-10'>
 
             {/* Header Content */}
-            <h1 className='text-2xl font-bold text-center pb-4'>Trendy Products</h1>
+            <h1 className='text-2xl font-bold text-center pb-4'>New Arrivals</h1>
 
             {/* Trendy Product Menu */}
             <div className="flex justify-center pb-6">
@@ -18,11 +18,11 @@ const TrendyProducts = () => {
                 </ul>
             </div>
 
-            {/* Trendy Cards */}
-            <TrendyCards></TrendyCards>
+            {/* New Arrivals Cards */}
+        <NewArrivalsCards></NewArrivalsCards>
 
         </div>
     );
 };
 
-export default TrendyProducts;
+export default NewArrivals;

@@ -5,7 +5,7 @@ import newProductBanner from '../../images/banner/banner-4.jpg.png'
 
 const CollectionAdvertise = () => {
     return (
-        <div className='my-[120px] mx-[120px]'>
+        <div className='mt-[120px] mb-[60px] mx-[120px]'>
 
             <section className="grid grid-cols-2">
 
@@ -59,6 +59,10 @@ const CollectionAdvertise = () => {
                     </div>
                 </div>
             </section>
+
+
+            {/* Divider */}
+            <div className='h-[1px] w-full bg-slate-100 mt-[60px]'></div>
         </div>
     );
 };
