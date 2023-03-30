@@ -13,7 +13,7 @@ const Categories = () => {
             <div className="div-1 w-[500px] lg:h-[500px] md:h-[400px] sm:h-[400px]">
 
                 {/* border */}
-                <div className="w-[470px] lg:h-[470px] md:h-[370px] sm:h-[370px] border-[3px] border-neutral-200 absolute mx-4 my-4"></div>
+                <div className=" w-[470px] lg:h-[470px] md:h-[370px] sm:h-[370px] border-[3px] border-neutral-200 absolute mx-4 my-4"></div>
 
                 {/* content */}
                 <div className="content absolute flex flex-col justify-center pt-[15%] pl-[4%] text-white">
