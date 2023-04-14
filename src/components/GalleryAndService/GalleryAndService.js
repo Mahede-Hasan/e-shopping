@@ -4,7 +4,7 @@ import ServicePolicy from './ServicePolicy';
 
 const GalleryAndService = () => {
     return (
-        <div className='px-[120px] py-[60px] bg-gray-50'>
+        <div className='lg:px-[120px] md:px-[70px] sm:px-[50px] py-[60px] bg-gray-50'>
             {/* Photos Gallery */}
             <PhotosGallery></PhotosGallery>
 

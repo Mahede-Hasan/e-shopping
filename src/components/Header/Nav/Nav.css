@@ -1,0 +1,86 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.menu-icon,
+.menu-close-icon {
+    width: 25px;
+    height: 25px;
+    color: white;
+
+}
+
+.nav-button {
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    opacity: 0;
+} */
+
+
+/* responsive navbar  */
+/* 
+@media only screen and (max-width: 992px) {
+
+    .navbar-container {
+        position: fixed;
+        top: 37px;
+        background: transparent;
+        width: 100%;
+        z-index: 10;
+        overflow-x: hidden;
+    } */
+
+    /* for laptop */
+    /* .nav-button {
+        visibility: visible;
+        opacity: 1;
+        margin-top: 10px;
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+
+
+    .nav-menu-container ul {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100% !important;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: skyblue;
+        transition: 0.5s;
+        transform: translateY(-100vh);
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
+    .nav-menu-container ul li .nav-menu {
+        margin-bottom: 20px;
+    }
+
+
+    .nav-menu-container .responsive_nav {
+        transform: none !important;
+    }
+
+    ul .nav-close {
+        position: absolute;
+        top: 16px;
+        right: 20px;
+    }
+
+    .nav-menu {
+        font-size: 20px;
+    }
+
+    .login-text {
+        margin-right: 20px;
+        padding-bottom: 2px;
+    }
+} */

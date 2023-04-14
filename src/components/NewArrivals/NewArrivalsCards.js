@@ -12,7 +12,7 @@ const NewArrivalsCards = () => {
     return (
         <div>
             {/* New Arrival Cards */}
-            <div className="grid lg:grid-cols-4 md:grid-cols-3 sm:grid:cols-2 ">
+            <div className="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2">
                 {
                     newArrivalsCards.map(card => <NewArrivalsCard key={card.id} card={card}></NewArrivalsCard>)
                 }
